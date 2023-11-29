@@ -12,7 +12,7 @@ conf/**/*credentials*
 # ignore everything in the following folders
 data/**
 logs/**
-
+slack_message/
 # except their sub-folders
 !data/**/
 !logs/**/
