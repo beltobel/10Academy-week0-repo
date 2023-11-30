@@ -45,7 +45,7 @@ class SlackDataLoader:
             users = json.load(f)
 
         return users
-    
+     
     def get_channels(self):
         '''
         write a function to get all the channels from the json file
